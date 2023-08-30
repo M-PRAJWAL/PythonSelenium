@@ -1,0 +1,7 @@
+2023-06-20 13:56:14,679 : INFO : Pytestdemo.Baseloggerclass :(message)s
+2023-06-20 13:56:14,680 : INFO : Pytestdemo.Baseloggerclass :(message)s
+2023-06-20 13:56:14,685 : DEBUG : Pytestdemo.test_logging :(message)s
+2023-06-20 13:56:14,685 : INFO : Pytestdemo.test_logging :(message)s
+2023-06-20 13:56:14,685 : WARNING : Pytestdemo.test_logging :(message)s
+2023-06-20 13:56:14,685 : ERROR : Pytestdemo.test_logging :(message)s
+2023-06-20 13:56:14,685 : CRITICAL : Pytestdemo.test_logging :(message)s
